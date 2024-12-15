@@ -1,0 +1,46 @@
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs de Unity
+logs/
+*.log
+
+# Archivos temporales
+Temp/
+Library/
+obj/
+Build/
+Builds/
+MemoryCaptures/
+
+# Archivos específicos de VS/JetBrains
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+.idea/
+*.iml
+
+# Archivos de cache
+*.stackdump
+*.apk
+*.aab
+
+# Otros
+*.pid
+*.swp
+*.bak
+*.ncb
+*.user
+*.cache
+*.pdb
+*.mdb

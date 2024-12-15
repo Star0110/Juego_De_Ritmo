@@ -1,0 +1,980 @@
+fileFormatVersion: 2
+guid: dd21b97d458772e47a9f5b8c0b7363fd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5671342878632848128
+    second: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_0
+  - first:
+      213: 4402653852368229173
+    second: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_1
+  - first:
+      213: -2608829055675053477
+    second: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_2
+  - first:
+      213: -1194617469039171322
+    second: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_3
+  - first:
+      213: 4932634990920222675
+    second: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_4
+  - first:
+      213: -4186088364014819917
+    second: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_5
+  - first:
+      213: 6108606727580183562
+    second: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_6
+  - first:
+      213: 7530514197052842960
+    second: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_7
+  - first:
+      213: -1277710598048844596
+    second: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_8
+  - first:
+      213: -7124309549580465520
+    second: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_9
+  - first:
+      213: -3726260595189862853
+    second: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_10
+  - first:
+      213: -8198861750034050669
+    second: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_11
+  - first:
+      213: -7849079389699751180
+    second: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_12
+  - first:
+      213: 8387089775670843132
+    second: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_13
+  - first:
+      213: 3533843595631091631
+    second: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_14
+  - first:
+      213: -2533949652326193349
+    second: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_15
+  - first:
+      213: -7717352248653755094
+    second: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_16
+  - first:
+      213: -257933995588022701
+    second: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_17
+  - first:
+      213: -7125629234788331702
+    second: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_18
+  - first:
+      213: 3502536900328631928
+    second: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_19
+  - first:
+      213: 1071208253535020280
+    second: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_20
+  - first:
+      213: 42846895956997933
+    second: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_21
+  - first:
+      213: -3421753153661850716
+    second: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_22
+  - first:
+      213: -579933780494148150
+    second: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_23
+  - first:
+      213: 4367819002329210650
+    second: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_24
+  - first:
+      213: 8299880300853486211
+    second: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_25
+  - first:
+      213: 9147704232925823247
+    second: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_26
+  - first:
+      213: -3440688473997406547
+    second: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_27
+  - first:
+      213: 4589145950332051503
+    second: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_28
+  - first:
+      213: 5176964690675771098
+    second: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_29
+  - first:
+      213: -4868043151862027163
+    second: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_30
+  - first:
+      213: -1732183888854001492
+    second: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_31
+  - first:
+      213: 1006359471522379220
+    second: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_32
+  - first:
+      213: 8872465880539160438
+    second: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 946
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b2a50dc48a4be40800000000000000
+      internalID: 5671342878632848128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_1
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1065
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533d96b3a5e591d30800000000000000
+      internalID: 4402653852368229173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_2
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1090
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a45c8cbc39bcbd0800000000000000
+      internalID: -2608829055675053477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_3
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 946
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609a173cdbddb6fe0800000000000000
+      internalID: -1194617469039171322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_4
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1065
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d74678d36d347440800000000000000
+      internalID: 4932634990920222675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_5
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1090
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b52080dfc608e5c0800000000000000
+      internalID: -4186088364014819917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_6
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 13
+        width: 619
+        height: 1069
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c6af5347126c450800000000000000
+      internalID: 6108606727580183562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_7
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1008
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3ee5b83c2c18860800000000000000
+      internalID: 7530514197052842960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_8
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1045
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4fb8d0bf8a44ee0800000000000000
+      internalID: -1277710598048844596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_9
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 947
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a455bf53e512d90800000000000000
+      internalID: -7124309549580465520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_10
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 978
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e2c233bb9a94cc0800000000000000
+      internalID: -3726260595189862853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_11
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 862
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391dea28daac73e80800000000000000
+      internalID: -8198861750034050669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_12
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 614
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f24b1b91e7721390800000000000000
+      internalID: -7849079389699751180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_13
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 786
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6db2ad6bde46470800000000000000
+      internalID: 8387089775670843132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_14
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 811
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf5161f60cba0130800000000000000
+      internalID: 3533843595631091631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_15
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 728
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b376f56773a95dcd0800000000000000
+      internalID: -2533949652326193349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_16
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 766
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d4e64a40576e490800000000000000
+      internalID: -7717352248653755094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_17
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 668
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e8a79c562ab6cf0800000000000000
+      internalID: -257933995588022701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_18
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 699
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f8d43d6fdac1d90800000000000000
+      internalID: -7125629234788331702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_19
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 345
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e29cce0c28b9030800000000000000
+      internalID: 3502536900328631928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_20
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 464
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4eb682b32bdde00800000000000000
+      internalID: 1071208253535020280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_21
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 489
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27be3d5609389000800000000000000
+      internalID: 42846895956997933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_22
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 407
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aba9eec2ad7380d0800000000000000
+      internalID: -3421753153661850716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_23
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 444
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd956c9c49a3f7f0800000000000000
+      internalID: -579933780494148150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_24
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 346
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f980dad3c9d9c30800000000000000
+      internalID: 4367819002329210650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_25
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 377
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38262a2b8291f2370800000000000000
+      internalID: 8299880300853486211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_26
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 261
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0181e1888c23fe70800000000000000
+      internalID: 9147704232925823247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_27
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 13
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae8a9cff083040d0800000000000000
+      internalID: -3440688473997406547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_28
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 185
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20e6ff6debefaf30800000000000000
+      internalID: 4589145950332051503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_29
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 210
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6287a15f548d740800000000000000
+      internalID: 5176964690675771098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_30
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 127
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56cadfd9b8c317cb0800000000000000
+      internalID: -4868043151862027163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_31
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 165
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8d33b3eeb06f7e0800000000000000
+      internalID: -1732183888854001492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_32
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 67
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5f0708b9e47fd00800000000000000
+      internalID: 1006359471522379220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-character-boy-waving-his-hand-png-image_7325575_33
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 98
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f5f43c5b4512b70800000000000000
+      internalID: 8872465880539160438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
